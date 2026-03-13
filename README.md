@@ -28,7 +28,7 @@ Limiting access to these ports reduces your attack surface and strengthens serve
 
 ---
 
-![My assignment 11.png](images/My_assignment_11.png)
+![My assignment 11.png](images/My%20assignment%2011.png)
 
 ![My assignment 10.png](images/My_assignment_10.png)
 
