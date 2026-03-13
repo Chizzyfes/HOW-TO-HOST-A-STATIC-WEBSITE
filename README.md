@@ -28,9 +28,9 @@ Limiting access to these ports reduces your attack surface and strengthens serve
 
 ---
 
-![My assignment 11.png](attachment:62ddad8a-f5bb-49e4-8533-15ae5f8096ed:My_assignment_11.png)
+![My assignment 11.png](images/My_assignment_11.png)
 
-![My assignment 10.png](attachment:028bad6d-41c0-4a36-97a9-4f818c076c5a:My_assignment_10.png)
+![My assignment 10.png](images/My_assignment_10.png)
 
 ## 2. Connect to the Server Using SSH
 
