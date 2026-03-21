@@ -42,7 +42,7 @@ ssh chisomfestus@72.145.11.230
 
 ### Check Active Logged-in Users
 
-![My-assignment15.png](images/My-assignment15.png)
+![My-assignment15.png](images/my-assignment15.png)
 
 ## 3. Update and Patch the Server
 
