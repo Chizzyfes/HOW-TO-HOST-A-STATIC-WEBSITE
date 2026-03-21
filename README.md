@@ -42,7 +42,7 @@ ssh chisomfestus@72.145.11.230
 
 ### Check Active Logged-in Users
 
-![My-assignment15.png](attachment:0173e6b5-2d2f-40fe-aefa-fecf6fe560d9:My-assignment15.png)
+![My-assignment15.png](images/My-assignment15.png)
 
 ## 3. Update and Patch the Server
 
@@ -82,7 +82,7 @@ Open a browser and visit:
 
 http://72.145.11.230
 
-![my-assignment16.png](attachment:4fe61966-dfe8-49f4-ad89-626c583c31c2:my-assignment16.png)
+![my-assignment16.png](images/my-assignment16.png)
 
 ## 5. Locate the Web Content Directory
 
@@ -94,7 +94,7 @@ List existing files:
 
 ls
 
-![my-assignment17.png](attachment:b2496909-84c7-4d1d-82f9-985455ea8ac8:my-assignment17.png)
+![my-assignment17.png](images/my-assignment17.png)
 
 ## 6. Download and Prepare a Website Template
 
@@ -104,7 +104,7 @@ Choose a free HTML template from a trusted source (e.g., HTML5 UP, FreeCSS, Toop
 
 Example:
 
-![My-assignment18.png](attachment:f833bbc6-126c-4fc2-bc2b-1ffdf9f3b67d:My-assignment18.png)
+![My-assignment18.png](images/My-assignment18.png)
 
 ### Install Unzip (If Not Installed)
 
@@ -148,7 +148,7 @@ Allow time for DNS propagation (a few minutes to several hours).
 
 http://pog9cohourt9.online
 
-![my-website.png](attachment:8364d059-523c-4413-bdcb-8fe76874b647:my-website.png)
+![my-website.png](images/my-website.png)
 
 ## 10. Conclusion
 
